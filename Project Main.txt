@@ -1,0 +1,9 @@
+We are on the main branch of the
+project.
+▪ Create a Text file.
+▪ Put some text in it.
+▪ We know we are in the main branch
+because we can see that in the
+GitHub Desktop.
+▪ I have highlighted it yellow, yours
+will be white.

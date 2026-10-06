@@ -1,0 +1,10 @@
+You are now in your development
+branch.
+▪ Add a new text file to the project
+and call it Project development.
+▪ Put some words in it.
+▪ The main file is still there because
+when we branched off, it
+remembers where it was at the
+point of branching.
+▪ Commit and push your changes
